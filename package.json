@@ -1,0 +1,25 @@
+{
+  "name": "newdns",
+  "version": "0.0.1",
+  "description": "The very new DNS hosting experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkirchhoffer/newdns.git"
+  },
+  "keywords": [
+    "dns",
+    "server",
+    "api",
+    "rest"
+  ],
+  "author": "Nicolas Kirchhoffer <git@nkirchho.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkirchhoffer/newdns/issues"
+  },
+  "homepage": "https://github.com/nkirchhoffer/newdns#readme"
+}
